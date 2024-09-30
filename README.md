@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="left"> 
-   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatata-keshi&layout=compact&count_private=true&show_icons=true" />
+   <img alt="Top Langs" height="180px" src="https://github-readme-stats-vert-eight-27.vercel.app/api/top-langs/?username=tatata-keshi&layout=compact&count_private=true&show_icons=true" />
 </p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tatata-keshi)
