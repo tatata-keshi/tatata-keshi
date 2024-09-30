@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+<p align="left"> 
+   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATOTOMI&layout=compact&count_private=true&show_icons=true" />
+</p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tatata-keshi)
+
+<hr>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tatata-keshi)](https://github.com/tatata-keshi/github-profile-trophy)
+
 <!--
 **tatata-keshi/tatata-keshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
